@@ -1,4 +1,3 @@
-
 from typing import Counter
 def is_triangle(a, b, c):
     tl=(sorted([a,b,c]))
